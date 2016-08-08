@@ -1,0 +1,5 @@
+package: github.com/shimula/golang-hello
+import:
+- package: github.com/labstack/echo
+  subpackages:
+  - engine/standard
